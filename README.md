@@ -22,9 +22,9 @@ https://spartacusrex.com/archive/
 - ![image](https://github.com/Webzarium/minima/assets/122037228/305ccd54-3b76-49e1-996f-cbf26ecdd966)
 - Выбираете скачанный файл Mininfo.zip и жмёте install
 - Заходите в дапку
+- Жмёте Balance и ждёте когда обработается команда
 - ![image](https://github.com/Webzarium/minima/assets/122037228/88103175-6de9-4218-8cb7-8ac3bad85668)
 - ![image](https://github.com/Webzarium/minima/assets/122037228/cb81feb5-4de4-464a-825b-d767d2010dbe)
-- Жмёте Balance и ждёте когда обработается команда
 - ![image](https://github.com/Webzarium/minima/assets/122037228/e9ca4bb6-95df-4d2b-b279-4c6b1267db52)
 
 
