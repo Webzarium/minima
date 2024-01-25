@@ -20,7 +20,7 @@
 - Добавляем его в Dapp
 - Выбираете скачанный файл Mininfo.zip и жмёте install
 - Заходите в дапку
-- Жмёте Balance и ждёте когда обработается команда
+- Жмёте Balance и ждёте когда обработается команда. Может занять несколько минут
 - ![image](https://github.com/Webzarium/minima/assets/122037228/ea86b178-a842-446e-aef1-5148d489c211)
 - ![image](https://github.com/Webzarium/minima/assets/122037228/305ccd54-3b76-49e1-996f-cbf26ecdd966)
 - ![image](https://github.com/Webzarium/minima/assets/122037228/88103175-6de9-4218-8cb7-8ac3bad85668)
