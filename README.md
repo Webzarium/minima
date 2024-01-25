@@ -1,16 +1,16 @@
 # minima
 Восстановление ноды minima
 
-Добавляем конекты
-https://spartacusrex.com/minimapeers.txt
+- Добавляем конекты
+- https://spartacusrex.com/minimapeers.txt
+- Архивные файлы
+- https://eurobuddha.com/archive.raw.dat
+- https://spartacusrex.com/archive/
 
-https://eurobuddha.com/archive.raw.dat
-https://spartacusrex.com/archive/
-
-1 СКАЧАТЬ (https://www.dropbox.com/scl/fi/usgnwtqgj8jqy95akbnfk/archive.raw.dat?rlkey=0th0ll83nlmi0mqwt9yan2cmh&dl=1) архивный файл
-2 3айти в минидап Security-Archive reset-import seed prase-Upload archive file(Выбрать скачанный файл)
-3 Указать сид фразу и запустить синхронизацию
-4 По завершению синхронизации перезагрузить ноду.
+- 1 СКАЧАТЬ (https://www.dropbox.com/scl/fi/usgnwtqgj8jqy95akbnfk/archive.raw.dat?rlkey=0th0ll83nlmi0mqwt9yan2cmh&dl=1) архивный файл
+- 2 3айти в минидап Security-Archive reset-import seed prase-Upload archive file(Выбрать скачанный файл)
+- 3 Указать сид фразу и запустить синхронизацию
+- 4 По завершению синхронизации перезагрузить ноду.
 
 
 # Как проверить баланс ноды без синхронизации
