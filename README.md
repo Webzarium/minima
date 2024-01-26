@@ -11,7 +11,7 @@
 - 2 3айти в минидап Security-Archive reset-import seed prase-Upload archive file(Выбрать скачанный файл)
 - 3 Указать сид фразу и запустить синхронизацию
 - 4 По завершению синхронизации перезагрузить ноду.
-
+- [КАК ВОССТАНОВИТЬ НОДУ МИНИМА - КАК ПОДНЯТЬ ВЕРХНИЙ БЛОК | Archive reset | Chain Resync | Backup](https://www.youtube.com/watch?v=Y4V5s16ItN0) 
 
 # Как проверить баланс ноды без синхронизации
 
