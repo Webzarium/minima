@@ -12,9 +12,8 @@
 - 3 Указать сид фразу и запустить синхронизацию
 - 4 По завершению синхронизации перезагрузить ноду.
 - [ВИДЕО. КАК ВОССТАНОВИТЬ НОДУ МИНИМА - КАК ПОДНЯТЬ ВЕРХНИЙ БЛОК | Archive reset | Chain Resync | Backup](https://www.youtube.com/watch?v=Y4V5s16ItN0) 
-- [![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://www.youtube.com/watch?v=Y4V5s16ItN0 "Everything Is AWESOME")
 - [![1280](https://github.com/Webzarium/test1/assets/122037228/b74d2c9d-9840-47db-af31-fc898af0b84d)](https://www.youtube.com/watch?v=Y4V5s16ItN0 "1280")
-- [![sddefault](https://github.com/Webzarium/test1/assets/122037228/d678f7db-ad5e-40b1-87c7-e08834041b76)](https://www.youtube.com/watch?v=Y4V5s16ItN0 "sddefault")
+
 # Как застейкать монеты minima ?
 - Заходим в минидап Maximize
 - Выбираете кол-во монет от 1 до 25000
