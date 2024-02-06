@@ -13,6 +13,8 @@
 - [ВИДЕО. КАК ВОССТАНОВИТЬ НОДУ МИНИМА - КАК ПОДНЯТЬ ВЕРХНИЙ БЛОК | Archive reset | Chain Resync | Backup](https://www.youtube.com/watch?v=Y4V5s16ItN0) 
 - [![1280](https://github.com/Webzarium/test1/assets/122037228/b74d2c9d-9840-47db-af31-fc898af0b84d)](https://www.youtube.com/watch?v=Y4V5s16ItN0 "1280")
 
+##  Восстановление ноды minima из бэкапа
+
 ##  Как застейкать монеты minima ?
 - Заходим в минидап Maximize
 - Выбираете кол-во монет от 1 до 25000
