@@ -1,15 +1,22 @@
 #  Minima
-##  Восстановление ноды minima
 
-- Добавляем конекты
-- https://spartacusrex.com/minimapeers.txt
-- Архивные файлы
+## Внимание! Прежде чем выносить мозг в чате, изучите инструкцию несколько раз. Данный гайд создан исключительно для смартфонов.
+
+##  Восстановление ноды minima по сид фразе.
+
+- Добавляем конекты. Заходим в Settings, Add connections, вводите ссылку https://spartacusrex.com/minimapeers.txt
+- Скачиваете архивные файлы.  Желательно скачивать псоледний. Ниже ссылки где можно скачать.
 - https://eurobuddha.com/archive.raw.dat
 - https://spartacusrex.com/archive/
 - 1 СКАЧАТЬ (https://www.dropbox.com/scl/fi/usgnwtqgj8jqy95akbnfk/archive.raw.dat?rlkey=0th0ll83nlmi0mqwt9yan2cmh&dl=1) архивный файл
 - 2 3айти в минидап Security-Archive reset-import seed prase-Upload archive file(Выбрать скачанный файл)
 - 3 Указать сид фразу и запустить синхронизацию
 - 4 По завершению синхронизации перезагрузить ноду.
+#### Что делать если не получается восстаноить ноду.
+- 1 Проверяем правильная ли сид фраза на ноде. Где поссмотреть сид фразу, читайте ниже.
+- 2 Пробуем синхронизировать повторно через архинвый файл, повторно сид фразу вводить не нужно.
+- Дополнить..................
+- 3 Попробовать сделать на другом сматфоне. более мощном и потом перенести бэкап на ваш телефон.
 - [ВИДЕО. КАК ВОССТАНОВИТЬ НОДУ МИНИМА - КАК ПОДНЯТЬ ВЕРХНИЙ БЛОК | Archive reset | Chain Resync | Backup](https://www.youtube.com/watch?v=Y4V5s16ItN0) 
 - [![1280](https://github.com/Webzarium/test1/assets/122037228/b74d2c9d-9840-47db-af31-fc898af0b84d)](https://www.youtube.com/watch?v=Y4V5s16ItN0 "1280")
 
