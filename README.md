@@ -11,7 +11,8 @@
 - Чтобы вызвать в телеграмм боте нужную информацию вводите следующий знак /
 - И дальше выбираете что вам нужно. 
 
-![image](https://github.com/Webzarium/minima/assets/122037228/ec92ac2f-d986-4bd6-a822-b6d1eeb941a0)
+![image](https://github.com/Webzarium/minima/assets/122037228/04cb3ee4-b9eb-4425-a291-80048d45b906)
+
 
 
 ##  Восстановление ноды minima по сид фразе.
