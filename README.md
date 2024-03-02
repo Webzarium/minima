@@ -39,7 +39,7 @@
 - [![1280](https://github.com/Webzarium/test1/assets/122037228/b74d2c9d-9840-47db-af31-fc898af0b84d)](https://www.youtube.com/watch?v=Y4V5s16ItN0 "1280")
 
 ##  Восстановление ноды minima из бэкапа
-### Внимание! Данный метод работает если у вас бэкап не старше двух месяцев.
+### Внимание! Если бэкап старше двух месяцев, тогда делайте синхронизацию по архивному файлу
 - Заходим в меню Security
 - Restore from backup, Restore, Continue
 - Upload an external backup
