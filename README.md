@@ -35,6 +35,7 @@ https://docs.minima.global/docs/runanode/get_started/
 ##  Восстановление ноды minima по сид фразе.
 
 - Добавляем конекты. Заходим в Settings, Add connections, вводите ссылку https://spartacusrex.com/minimapeers.txt
+- Или по команде  /peers в русском телеграмм чате
 - Скачиваете архивные файлы.  Желательно скачивать псоледний. Ниже ссылки где можно скачать.
 - https://spartacusrex.com/archive/  Выбирайте по датам более свежий архивный файл.
 - https://eurobuddha.com/archive.raw.dat
