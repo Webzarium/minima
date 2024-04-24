@@ -4,6 +4,13 @@
 - https://www.minima.global/
 - https://t.me/minima_ru
 - https://discord.com/invite/minima
+- https://www.youtube.com/@MinimaGlobal
+## как слушать AMA на русском
+- Устанавливаете на телефон Яндекс старт
+- Вставляете нужно видео и жмёте нопку перевести видео
+ ![image](https://github.com/Webzarium/minima/assets/122037228/bafefefd-720d-43ad-953f-0362eca2dab1)
+
+
 ## Прежде чем задать вопрос в чате, чтобы решить быстро вашу проблему - дайте полную информацию
 - Где стоит нода?
 - Подробное описание что делали.
