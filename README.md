@@ -52,7 +52,7 @@
 https://docs.minima.global/docs/runanode/get_started/
 
 
-##  Восстановление ноды minima по сид фразе.
+##  Восстановление ноды minima по сид фразе на телефоне под управлением OC Android.
 
 - Добавляем конекты. Заходим в Settings, Add connections, вводите ссылку https://spartacusrex.com/minimapeers.txt
 - Или по команде  /peers в русском телеграмм чате
