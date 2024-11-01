@@ -2,6 +2,7 @@
 
 ## Внимание! Изучите инструкцию несколько раз.
 - https://www.minima.global/
+- https://block.minima.global/   веб-обозреватель блоков minima
 - https://t.me/minima_ru
 - https://discord.com/invite/minima
 - https://www.youtube.com/@MinimaGlobal
