@@ -200,4 +200,5 @@ https://docs.minima.global/docs/runanode/get_started/
 - ![image](https://github.com/Webzarium/minima/assets/122037228/cb81feb5-4de4-464a-825b-d767d2010dbe)
 - ![image](https://github.com/Webzarium/minima/assets/122037228/e9ca4bb6-95df-4d2b-b279-4c6b1267db52)
 
+https://docs.minima.global/docs/user-guides/node-recovery/import-seed-phrase#restore-your-seed-phrase-with-quicksync
 
