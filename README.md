@@ -154,16 +154,19 @@ https://docs.minima.global/docs/runanode/get_started/
 
 ## Как добавить миниприложения Мinima
 Нужно ввести следующие адресса
+
 Minima Global Team’s DappStores:
 - https://spartacusrex.com/dappstore/dapps.json
 - https://eurobuddha.com/pandadapps.json
 - https://eliasnemr.github.io/kisslabsstore/kiss_labs.json
 - https://dynamitesush.vps.webdock.cloud/store/store.json
 - https://jazminima.github.io/dappstore/dapps.json
+
 Community DappStores:
--https://monthrie.github.io/minidapp-store/store.json
--https://ipfs.io/ipns/k51qzi5uqu5dm2n69mh0tkdtg21zpzo77nc2l1t8l8yyyksrxo8skh0z85fo0v
--https://minimanfts.com/dappstore/dapps.json
+
+- https://monthrie.github.io/minidapp-store/store.json
+- https://ipfs.io/ipns/k51qzi5uqu5dm2n69mh0tkdtg21zpzo77nc2l1t8l8yyyksrxo8skh0z85fo0v
+- https://minimanfts.com/dappstore/dapps.json
 
 ## Что делать если вы не помните пароль
 - Востанавливаете ноду с нуля через сид фразу или бэкап файл и делайте синхронизацию
@@ -171,7 +174,7 @@ Community DappStores:
 ## Что делать если не приходят монеты на кошелёк
 - Проверяете актуальную высоту блоков у того кто отправляет и тот кто получает.
 - Актуальную высоту блоков можно узнать в телеграм чате в боте или в дискорд проекта.
-- Не забываем делатm апрув транзакции в минидапе Pending
+- Не забываем делать апрув транзакции в минидапе Pending
 - Если блоки различаются, то нужно сделать синхронизацию
 - При актуальной высоте блоков монеты поступают в течении 1-2 мин
 
