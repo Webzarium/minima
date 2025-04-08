@@ -152,15 +152,18 @@ https://docs.minima.global/docs/runanode/get_started/
 ![image](https://github.com/Webzarium/minima/assets/122037228/fa227560-34e3-4d38-a6ae-2ad982d99cfa)
 
 
-## Как продать монеты Мinima
-- Листинг нативной монеты MINIMA  будет в 3 квартале 2024 года
-- Продать minima можно в p2p ветке дискорда прокета
-- https://discord.com/channels/562272317930209280/1087641166935236638
-- WTB хочу купить
-- WTS хочу продать
-- Очень много скамеров. Не соглашайтесь на гаранта с чужих плащадок, они могут бывть в доле. Можете поговорить с модерами и админами в дискорде по поводу гарантов.
-- Второй вариант через miniswap если найдёте покупателя.
-- https://www.youtube.com/watch?v=_1wUUeUrkT4
+## Как добавить миниприложения Мinima
+Нужно ввести следующие адресса
+Minima Global Team’s DappStores:
+- https://spartacusrex.com/dappstore/dapps.json
+- https://eurobuddha.com/pandadapps.json
+- https://eliasnemr.github.io/kisslabsstore/kiss_labs.json
+- https://dynamitesush.vps.webdock.cloud/store/store.json
+- https://jazminima.github.io/dappstore/dapps.json
+Community DappStores:
+-https://monthrie.github.io/minidapp-store/store.json
+-https://ipfs.io/ipns/k51qzi5uqu5dm2n69mh0tkdtg21zpzo77nc2l1t8l8yyyksrxo8skh0z85fo0v
+-https://minimanfts.com/dappstore/dapps.json
 
 ## Что делать если вы не помните пароль
 - Востанавливаете ноду с нуля через сид фразу или бэкап файл и делайте синхронизацию
